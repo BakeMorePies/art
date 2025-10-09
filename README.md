@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="logos/bmp-square-logo.png" alt="BakeMorePies Logo" width="200" />
+</div>
+
 # BakeMorePies Art & Assets 🎨✨
 
 Welcome to the **BakeMorePies** central art repository! This repo contains all brand assets, logos, screenshots, wallpapers, and visual resources used across our GitHub packages and projects.
@@ -22,13 +26,23 @@ Our signature Bake More Pies color palette:
 └── misc/            # Other visual assets
 ```
 
+## 🎯 Available Logos
+
+### Square Logo
+Perfect for profile pictures, app icons, and square formats.
+```markdown
+![BakeMorePies Square Logo](https://raw.githubusercontent.com/BakeMorePies/art/main/logos/bmp-square-logo.png)
+```
+
+### Horizontal Logo  
+Ideal for headers, banners, and wide layouts.
+```markdown
+![BakeMorePies Horizontal Logo](https://raw.githubusercontent.com/BakeMorePies/art/main/logos/bmp-horizontal-logo.png)
+```
+
 ## 🚀 Usage
 
-These assets are available for use across all BakeMorePies projects and documentation. Simply reference them in your README files or documentation using:
-
-```markdown
-![BakeMorePies Logo](https://raw.githubusercontent.com/BakeMorePies/art/main/logos/bmp-logo.png)
-```
+These assets are available for use across all BakeMorePies projects and documentation. Simply reference them in your README files or documentation using the links above!
 
 ## 📝 Contributing
 
