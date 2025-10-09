@@ -39,13 +39,13 @@ Our signature Bake More Pies color palette:
 ### Square Logo
 Perfect for profile pictures, app icons, and square formats.
 ```markdown
-![BakeMorePies Square Logo](https://raw.githubusercontent.com/BakeMorePies/art/main/logos/bmp-square-logo.png)
+![BakeMorePies Square Logo](https://raw.githubusercontent.com/BakeMorePies/art/refs/heads/master/logos/bmp-square-logo.png)
 ```
 
 ### Horizontal Logo  
 Ideal for headers, banners, and wide layouts.
 ```markdown
-![BakeMorePies Horizontal Logo](https://raw.githubusercontent.com/BakeMorePies/art/main/logos/bmp-horizontal-logo.png)
+![BakeMorePies Horizontal Logo](https://raw.githubusercontent.com/BakeMorePies/art/refs/heads/master/logos/bmp-horizontal-logo.png)
 ```
 
 ##  Usage
@@ -86,5 +86,5 @@ All assets in this repository are proprietary to **Bake More Pies** and are inte
 
   **"Why Fight Over Slices of the Pie? Just Bake More Pies."**
 
-  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/pizza.svg" width="30" height="30"> *Made with love by the BakeMorePies team*
+  *Made with <img src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/pizza.svg" width="20" height="20"> by the BakeMorePies team*
 </div>
