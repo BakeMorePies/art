@@ -61,7 +61,7 @@ For comprehensive icon usage, we maintain a detailed reference guide for [Tabler
 <img src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/heart.svg" width="16" height="16">
 ```
 
-**Reference Guide:** [TABLER_ICONS_REFERENCE.md](tabler-icons/TABLER_ICONS_REFERENCE.md)
+**Reference Guide:** [TABLER_ICONS_REFERENCE.md](icons/TABLER_ICONS_REFERENCE.md)
 
 ##  Contributing
 
