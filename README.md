@@ -2,20 +2,20 @@
   <img src="logos/bmp-square-logo.png" alt="BakeMorePies Logo" width="200" />
 </div>
 
-# BakeMorePies Art & Assets 🎨✨
+# BakeMorePies Art & Assets 
 
 Welcome to the **BakeMorePies** central art repository! This repo contains all brand assets, logos, screenshots, wallpapers, and visual resources used across our GitHub packages and projects.
 
-## 🎨 Brand Colors
+##  Brand Colors
 
 Our signature Bake More Pies color palette:
 
-- **Magenta**: `#BD1E8C` 💖
-- **Yellow**: `#FFCB05` ⚡
-- **Cyan**: `#00AEEF` 🌊
-- **Black**: `#010101` 🖤
+- **Magenta**: `#BD1E8C`
+- **Yellow**: `#FFCB05`
+- **Cyan**: `#00AEEF`
+- **Black**: `#010101`
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 ├── logos/           # BakeMorePies logos in various formats
@@ -26,7 +26,7 @@ Our signature Bake More Pies color palette:
 └── misc/            # Other visual assets
 ```
 
-## 🎯 Available Logos
+##  Available Logos
 
 ### Square Logo
 Perfect for profile pictures, app icons, and square formats.
@@ -40,11 +40,11 @@ Ideal for headers, banners, and wide layouts.
 ![BakeMorePies Horizontal Logo](https://raw.githubusercontent.com/BakeMorePies/art/main/logos/bmp-horizontal-logo.png)
 ```
 
-## 🚀 Usage
+##  Usage
 
 These assets are available for use across all BakeMorePies projects and documentation. Simply reference them in your README files or documentation using the links above!
 
-## 📝 Contributing
+##  Contributing
 
 When adding new assets:
 
@@ -54,7 +54,7 @@ When adding new assets:
 4. Optimize images for web use
 5. Update this README if adding new categories
 
-## 📄 License
+##  License
 
 All assets in this repository are proprietary to **Bake More Pies** and are intended for internal use across our projects.
 
@@ -63,11 +63,9 @@ All assets in this repository are proprietary to **Bake More Pies** and are inte
 <div align="center">
   <img src="misc/BMP-Bakernaut.png" alt="Bakernaut - Bake More Pies" width="300" />
 
-  ### 🥧 [BakeMorePies.com](https://bakemorepies.com)
+  ### [BakeMorePies.com](https://bakemorepies.com)
 
   **"Why Fight Over Slices of the Pie? Just Bake More Pies."**
 
-  *Made with 💖 by the BakeMorePies team*
+  *Made with love by the BakeMorePies team*
 </div>
-
- 
