@@ -10,10 +10,10 @@ Welcome to the **BakeMorePies** central art repository! This repo contains all b
 
 Our signature Bake More Pies color palette:
 
-- **Magenta**: `#BD1E8C` <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/regular/circle.svg" width="16" height="16">
-- **Yellow**: `#FFCB05` <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/regular/sun.svg" width="16" height="16">
-- **Cyan**: `#00AEEF` <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/regular/droplet.svg" width="16" height="16">
-- **Black**: `#010101` <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/regular/moon.svg" width="16" height="16">
+- **Magenta**: `#BD1E8C` <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/circle.svg" width="16" height="16">
+- **Yellow**: `#FFCB05` <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/sun.svg" width="16" height="16">
+- **Cyan**: `#00AEEF` <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/droplet.svg" width="16" height="16">
+- **Black**: `#010101` <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/moon.svg" width="16" height="16">
 
 ##  Repository Structure
 
@@ -27,12 +27,12 @@ Our signature Bake More Pies color palette:
 ```
 
 ### Quick Access
-- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/regular/image.svg" width="16" height="16"> **Logos**: Brand identity assets
-- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/regular/camera.svg" width="16" height="16"> **Screenshots**: Project documentation
-- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/regular/desktop.svg" width="16" height="16"> **Wallpapers**: Background images
-- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/regular/star.svg" width="16" height="16"> **Icons**: Small graphics
-- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/regular/share-nodes.svg" width="16" height="16"> **Social**: Social media assets
-- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/regular/folder.svg" width="16" height="16"> **Misc**: Other visual assets
+- <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/image.svg" width="16" height="16"> **Logos**: Brand identity assets
+- <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/camera.svg" width="16" height="16"> **Screenshots**: Project documentation
+- <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/monitor.svg" width="16" height="16"> **Wallpapers**: Background images
+- <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/star.svg" width="16" height="16"> **Icons**: Small graphics
+- <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/share.svg" width="16" height="16"> **Social**: Social media assets
+- <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/folder.svg" width="16" height="16"> **Misc**: Other visual assets
 
 ##  Available Logos
 
@@ -71,9 +71,9 @@ All assets in this repository are proprietary to **Bake More Pies** and are inte
 <div align="center">
   <img src="misc/BMP-Bakernaut.png" alt="Bakernaut - Bake More Pies" width="300" />
 
-  ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/regular/globe.svg" width="20" height="20"> [BakeMorePies.com](https://bakemorepies.com)
+  ### <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/globe.svg" width="20" height="20"> [BakeMorePies.com](https://bakemorepies.com)
 
   **"Why Fight Over Slices of the Pie? Just Bake More Pies."**
 
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/svgs/regular/heart.svg" width="16" height="16"> *Made with love by the BakeMorePies team*
+  <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/heart.svg" width="16" height="16"> *Made with love by the BakeMorePies team*
 </div>
