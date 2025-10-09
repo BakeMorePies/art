@@ -60,5 +60,13 @@ All assets in this repository are proprietary to **Bake More Pies** and are inte
 
 ---
 
-**Made with 💖 by the BakeMorePies team**
+<div align="center">
+  <img src="misc/BMP-Bakernaut.png" alt="Bakernaut - Bake More Pies" width="300" />
+  
+  ### 🥧 [BakeMorePies.com](https://bakemorepies.com)
+  
+  **"Why Fight Over Slices of the Pie? Just Bake More Pies."**
+  
+  *Made with 💖 by the BakeMorePies team*
+</div>
 
