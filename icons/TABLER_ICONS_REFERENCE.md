@@ -368,7 +368,7 @@ A comprehensive reference for all available Tabler Icons for use in GitHub READM
 - State variants use suffixes (`-off`, `-on`, `-active`)
 
 ---
-### Full List of Available Outlined Icon Files (4,964 icons)
+### Full List of Available Outlined Icon Files (4,969 icons)
 
 ```markdown
 
@@ -2070,7 +2070,7 @@ zzz-off.svg, zzz.svg
 
 ```
 ---
-### Full List of Available Filled Icon Files (2,397 icons)
+### Full List of Available Filled Icon Files (1,004)
 
 ```markdown
 
