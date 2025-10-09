@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logos/bmp-square-logo.png" alt="BakeMorePies Logo" width="200" />
+  <img src="https://raw.githubusercontent.com/BakeMorePies/art/refs/heads/master/logos/bmp-horizontal-logo.png" alt="BakeMorePies Logo" width="400" />
 </div>
 
 # BakeMorePies Art & Assets 
@@ -80,11 +80,11 @@ All assets in this repository are proprietary to **Bake More Pies** and are inte
 ---
 
 <div align="center">
-  <img src="misc/BMP-Bakernaut.png" alt="Bakernaut - Bake More Pies" width="300" />
+  <img src="https://raw.githubusercontent.com/BakeMorePies/art/refs/heads/master/misc/BMP-Bakernaut.png" alt="Bakernaut - Bake More Pies" width="300" />
 
-  ### <img src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/world.svg" width="20" height="20"> [BakeMorePies.com](https://bakemorepies.com)
+  ### <img src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/world.svg" width="16" height="16"> [BakeMorePies.com](https://bakemorepies.com)
 
   **"Why Fight Over Slices of the Pie? Just Bake More Pies."**
 
-  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/heart.svg" width="16" height="16"> *Made with love by the BakeMorePies team*
+  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/pizza.svg" width="30" height="30"> *Made with love by the BakeMorePies team*
 </div>
